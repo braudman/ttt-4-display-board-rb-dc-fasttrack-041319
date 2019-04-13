@@ -10,7 +10,7 @@ def display_board(board)
   
 end
  
- expect(rows[2]).to eq("   | X |   ")
+ 
 
 
 display_board(board)
