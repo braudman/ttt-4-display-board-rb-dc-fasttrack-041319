@@ -7,6 +7,10 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+  
+  expect(rows[])
 end
+
+
 
 display_board(board)
