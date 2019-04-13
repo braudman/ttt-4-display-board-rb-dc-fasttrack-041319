@@ -8,9 +8,9 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
   
-  expect(rows[])
 end
-
+ 
+ expect(rows[2]).to eq("   | X |    ")
 
 
 display_board(board)
