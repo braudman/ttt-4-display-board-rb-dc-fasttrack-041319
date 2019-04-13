@@ -4,7 +4,7 @@ board =[" "," "," "," ","X"," "," "," ",]
 def display_board(board)
   puts ("   |   |   ")
   puts ("-----------")
-  puts expect(rows[2]"   | X |   ")
+  puts ("   | X |   ")
   puts ("-----------")
   puts ("   |   |   ")
   
